@@ -2323,6 +2323,7 @@ ol.commentlist li .reply {
 	1%{ left: 10%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
 }
+
 @-webkit-keyframes fromLeftAnim4{
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 60%; opacity: 1; }
