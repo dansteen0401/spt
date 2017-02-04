@@ -2310,6 +2310,7 @@ ol.commentlist li .reply {
 	-ms-animation: fromLeftAnim4 0.6s ease-in 0.6s both;
 	animation: fromLeftAnim4 0.6s ease-in 0.6s both;
 }
+
 @-webkit-keyframes fromLeftAnim1{
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
