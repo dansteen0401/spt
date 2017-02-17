@@ -2171,6 +2171,7 @@ ol.commentlist li .reply {
 	-ms-animation: fromRightAnim1 0.6s ease-in 0.8s both;
 	animation: fromRightAnim1 0.6s ease-in 0.8s both;
 }
+
 .da-slide-fromright p{
 	-webkit-animation: fromRightAnim2 0.6s ease-in 0.8s both;
 	-moz-animation: fromRightAnim2 0.6s ease-in 0.8s both;
