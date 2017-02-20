@@ -2115,6 +2115,7 @@ ol.commentlist li .reply {
 .da-slider:hover .da-arrows span{
 	opacity: 1;
 }
+
 .da-arrows span:after{
 	content: '';
 	position: absolute;
