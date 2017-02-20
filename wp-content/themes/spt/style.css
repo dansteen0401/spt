@@ -2112,6 +2112,7 @@ ol.commentlist li .reply {
 	-ms-transition: opacity 0.4s ease-in-out 0.2s;
 	transition: opacity 0.4s ease-in-out 0.2s;
 }
+
 .da-slider:hover .da-arrows span{
 	opacity: 1;
 }
