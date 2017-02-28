@@ -1551,6 +1551,7 @@ blockquote p {
 #respond .required{
 	color: red;
 }
+
 #respond input,
 #respond textarea {
 	display: block;
