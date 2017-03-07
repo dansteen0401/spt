@@ -2432,6 +2432,7 @@ ol.commentlist li .reply {
 	0%{ left: 10%;  opacity: 1; }
 	100%{ left: 100%; opacity: 0; }
 }
+
 @-webkit-keyframes toRightAnim2{
 	0%{ left: 10%;  opacity: 1; }
 	100%{ left: 100%; opacity: 0; }
