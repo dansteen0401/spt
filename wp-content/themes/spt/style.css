@@ -2399,6 +2399,7 @@ ol.commentlist li .reply {
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 60%; opacity: 1; }
 }
+
 /* Slide out to the right */
 .da-slide-toright h2{
 	-webkit-animation: toRightAnim1 0.6s ease-in 0.6s both;
