@@ -2386,6 +2386,7 @@ ol.commentlist li .reply {
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
 }
+
 @keyframes fromLeftAnim2{
 	0%{ left: -110%; opacity: 0; }
 	100%{ left: 10%; opacity: 1; }
