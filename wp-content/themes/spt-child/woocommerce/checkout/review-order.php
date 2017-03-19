@@ -279,13 +279,11 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<?php endif; ?>
 
 		<?php do_action( 'woocommerce_review_order_before_order_total' ); ?>
-
 		<tr class="order-total">
 			<td colspan="1"></td>
 			<td><?php _e( 'Total', 'woocommerce' ); ?></td>
 			<td><?php wc_cart_totals_order_total_html(); ?></td>
 		</tr>
-
 		<?php do_action( 'woocommerce_review_order_after_order_total' ); ?>
 
 	</tfoot>
