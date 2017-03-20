@@ -16,7 +16,6 @@ get_header(); ?>
 	<div id="content-box">
 		<div <?php post_class('post-single'); ?>>
 		<?php
-			 
 			if ( has_post_thumbnail() ) { 
 					
 				if ($spt_theme_options['featured_img_post'] == '1') {?>
@@ -24,8 +23,7 @@ get_header(); ?>
 						<?php the_post_thumbnail('full'); ?>
 					</div><!--thumb-wrapper-->
 				<?php
-				} 
-					
+				}
 			} ?>
 			<div id="article">
 				<?php the_content(); 
