@@ -776,6 +776,7 @@ p.woocommerce-thankyou.woocommerce-thankyou-order-received {
 .woocommerce #checkout_timeline.horizontal.text li:not(:last-child) .timeline-wrapper:after {
 	content: "";
 }
+
 .woocommerce #checkout_timeline.text {
 	position: relative;
 }
@@ -809,6 +810,7 @@ p.woocommerce-thankyou.woocommerce-thankyou-order-received {
 .woocommerce #checkout_timeline li .timeline-wrapper .timeline-step:not(.with-icon):after {
 	content: '';
 }
+
 .woocommerce #checkout_timeline li:not(:last-child):after {
 	content: '- - -';
     display: inline-block;
