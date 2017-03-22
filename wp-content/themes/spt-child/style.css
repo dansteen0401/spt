@@ -733,6 +733,7 @@ form.checkout h3 {
 .woocommerce-page input.button, .woocommerce-page #respond input#submit, .woocommerce-page #content input.button {
 	padding: 10px 20px;
 }
+
 .woocommerce table.shop_table thead, .woocommerce-page table.shop_table thead {
 	background: transparent;
 }
