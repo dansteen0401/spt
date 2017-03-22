@@ -780,6 +780,7 @@ p.woocommerce-thankyou.woocommerce-thankyou-order-received {
 .woocommerce #checkout_timeline.text {
 	position: relative;
 }
+
 .woocommerce #checkout_timeline.text li {
 	width: 130px;
 }
