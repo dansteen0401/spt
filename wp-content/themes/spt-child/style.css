@@ -533,6 +533,7 @@ div.wpcf7 {
 	position: relative;
 	top: 25px;
 }
+
 .woocommerce .quantity input.qty, .woocommerce #content .quantity input.qty, .woocommerce-page .quantity input.qty, .woocommerce-page #content .quantity input.qty {
 	background: transparent;
     border: 0;
