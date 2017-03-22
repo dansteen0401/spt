@@ -601,6 +601,7 @@ div.wpcf7 {
 	background: var(--white);
 	color: var(--black-two) !important;
 }
+
 .woocommerce a.remove:hover {
 	background: var(--black-two);
 	color: var(--white) !important;
