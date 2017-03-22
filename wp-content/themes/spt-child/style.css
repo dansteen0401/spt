@@ -624,6 +624,7 @@ div.wpcf7 {
 	color: var(--white);
 	font-size: 14px;
 }
+
 .woocommerce table.shop_table tbody th, .woocommerce table.shop_table tfoot td, .woocommerce table.shop_table tfoot th {
 	font-weight: 100;
 }
