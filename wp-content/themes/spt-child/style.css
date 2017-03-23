@@ -340,6 +340,7 @@ div.wpcf7 {
 	background: rgba(79,79,79, 0.8);
     color: #fff;
 }
+
 .woocommerce div.product .product_title, .woocommerce #content div.product .product_title, .woocommerce-page div.product .product_title, .woocommerce-page #content div.product .product_title {
 	color: var(--sunflower-yellow);
 	font-size: 32.6px;
