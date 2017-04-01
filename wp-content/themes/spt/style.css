@@ -104,6 +104,7 @@ video {
 audio:not([controls]) {
 	display: none;
 }
+
 del {
 	color: #333;
 }
