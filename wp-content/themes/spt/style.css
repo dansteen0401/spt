@@ -108,6 +108,7 @@ audio:not([controls]) {
 del {
 	color: #333;
 }
+
 ins {
 	background: #fff9c0;
 	text-decoration: none;
