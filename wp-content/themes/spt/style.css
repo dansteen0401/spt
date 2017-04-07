@@ -153,6 +153,7 @@ img {
 .format-status .entry-header:after {
 	clear: both;
 }
+
 .clear:before,
 .clear:after,
 .wrapper:before,
