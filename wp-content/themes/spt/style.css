@@ -3017,6 +3017,7 @@ html[xmlns] .slides {
 .owl-theme .owl-controls .owl-page{
 	display: inline-block;
 }
+
 .owl-theme .owl-controls .owl-page span{
 	display: block;
 	width: 12px;
