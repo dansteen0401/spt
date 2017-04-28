@@ -2953,6 +2953,7 @@ html[xmlns] .slides {
 .owl-controls .owl-buttons div{
 	cursor: pointer;
 }
+
 .owl-controls {
 	-webkit-user-select: none;
 	-khtml-user-select: none;
