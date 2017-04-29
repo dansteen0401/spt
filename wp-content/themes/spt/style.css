@@ -2938,6 +2938,7 @@ html[xmlns] .slides {
 	position: relative;
 	width: 100%;
 }
+
 .owl-carousel .owl-wrapper-outer.autoHeight{
 	-webkit-transition: height 500ms ease-in-out;
 	-moz-transition: height 500ms ease-in-out;
