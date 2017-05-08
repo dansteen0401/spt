@@ -2522,6 +2522,7 @@ ol.commentlist li .reply {
 	30%{ left: 55%;  opacity: 1; }
 	100%{ left: 100%; opacity: 0; }
 }
+
 /* Slide out to the left*/
 .da-slide-toleft h2{
 	-webkit-animation: toLeftAnim1 0.6s ease-in both;
