@@ -2537,6 +2537,7 @@ ol.commentlist li .reply {
 	-ms-animation: toLeftAnim2 0.6s ease-in 0.3s both;
 	animation: toLeftAnim2 0.6s ease-in 0.3s both;
 }
+
 .da-slide-toleft .da-link{
 	-webkit-animation: toLeftAnim3 0.4s ease-in both;
 	-moz-animation: toLeftAnim3 0.4s ease-in both;
